@@ -6,7 +6,10 @@
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?style=flat-square)](https://pypi.org/project/PyQt5/)
 [![Rasterio](https://img.shields.io/badge/Rasterio-GIS Data-2B5C8F?style=flat-square)](https://rasterio.readthedocs.io/)
 
+> **Note:** The pretrained model file necessary to run the application can be accessed via [Google Drive].(https://drive.google.com/drive/folders/1Mzf49fnojh9WdjvXZr-bh6g7p33bfkfB?usp=share_link) All rights reserved; please give proper attribution.
+
 An end-to-end computer vision and remote sensing project for detecting, counting, and analyzing forest canopy health from multi-band satellite images (GeoTIFF) using a fine-tuned YOLOv8 model deployed on an interactive Desktop GUI.
+
 
 ---
 
